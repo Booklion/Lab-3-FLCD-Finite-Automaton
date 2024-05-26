@@ -19,3 +19,6 @@ The .in file contains the transitions of the finite automaton. Here are some rul
 * < finalStatement > ::= (q< digit >)
 * < basicStatement > ::= [q< digit >]
 * < alphabet > ::= "a" | "b" | ... | "z" | "A" | "B" | ... | "Z" | "_"
+
+
+Project realised during the Formal Languages and Compiler Design course, Babes-Bolyai University, Cluj-Napoca.
